@@ -1,0 +1,8 @@
+package com.hrms.lib;
+import org.openqa.selenium.WebDriver;
+public class General {
+	public void openApplication() {
+		System.setProperty(Webdriver.gecko.driver, "C:\\Users\\jadan\\OneDrive\\Documents\\driversselenium\\geckodriver-v0.32.2-win64");
+	}
+	
+}

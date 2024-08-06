@@ -1,0 +1,12 @@
+package com.hrms.testscripts;
+
+public class Tc_001 {
+
+	public static void main(String[] args) {
+//	we have to create object for the class who have methods in that  class 	 so we have methods for the general class so we have to create objects for 2nd class
+
+		General c = new General();
+
+	}
+
+}

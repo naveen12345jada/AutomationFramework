@@ -1,0 +1,19 @@
+package com.hrms.lib;
+
+public class Global {
+
+
+	// To provide Test Data & Objects /Elements for Whole Application
+	
+	//TestData
+		public String url ="http://183.82.103.245/nareshit/login.php";
+		public String username= "nareshit";
+		public String  password="nareshit";
+		
+		//Object Elements
+		public String txt_loginname="txtUsername";
+		public String txt_Password="txtPassword";
+		
+
+
+}

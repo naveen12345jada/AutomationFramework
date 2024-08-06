@@ -1,0 +1,11 @@
+package com.hrms.lib;
+
+public class Global {
+
+
+	// To provide Test Data & Objects /Elements for Whole Application
+		public String url ="http://183.82.103.245/nareshit/login.php";
+		
+
+
+}
